@@ -2,7 +2,8 @@
 二次元虫洞自动签到脚本二改，支持青龙面板
 
 更改说明：
-更新原脚本中的网站域名https://www.2cycdx.com，因二次元虫洞更新了Https的网址，原脚本因域名未更新会报SSLError。
+更新原脚本中的网站域名https://www.2cycdx.com
+因二次元虫洞更新了Https的网址，原脚本因域名未更新会报SSLError。
 
 原项目地址https://github.com/CelestialRipple/2cycd_Autosignin
 
